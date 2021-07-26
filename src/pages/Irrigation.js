@@ -1,7 +1,7 @@
 import React from "react";
 import RiegoComponentsList from "src/components/Riego";
 
-const Pagina2 = () => {
+const Irrigation = () => {
   return (
     <>
       {/* Hero section */}
@@ -16,4 +16,4 @@ const Pagina2 = () => {
   );
 };
 
-export default Pagina2;
+export default Irrigation;

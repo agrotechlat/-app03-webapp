@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from "react-router-dom";
 
 
 class Tray extends Component {
@@ -41,9 +42,9 @@ class Tray extends Component {
 
 
                     <div className="text-center ">
-                        <a href="/newCulture"> <button  className="rounded p-2 m-10 text-white bg-gradient-to-r from-green-400  to-green-800">
-                            New Culture
-                        </button></a>
+                        <Link to="/newCulture"> <button  className="rounded p-2 m-10 text-white bg-gradient-to-r from-green-400  to-green-800">
+                            New Farming
+                        </button></Link>
                     </div>
 
                 </div>

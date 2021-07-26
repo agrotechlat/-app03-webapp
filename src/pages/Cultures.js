@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import SeedsCollection from "src/components/SeedsColection";
 import TrayList from "src/components/TrayList";
 
-const Pagina1 = () => {
+const Cultures = () => {
   const [resultado, setResultado] = useState();
 
   useEffect(() => {
@@ -18,7 +18,7 @@ const Pagina1 = () => {
         {/* Headlines */}
         <div className="space-y-4" >
        
-          <h1 className="text-center text-green-800 text-4xl	">Cultures</h1>
+          <h1 className="text-center text-green-800 text-4xl	">Farming</h1>
           <SeedsCollection />
 
           <TrayList />
@@ -29,4 +29,4 @@ const Pagina1 = () => {
   );
 };
 
-export default Pagina1;
+export default Cultures;

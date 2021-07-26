@@ -1,4 +1,15 @@
-Web app to control and config the hardware of hydroponic system.
+# Egreens 
+![Logo](https://i.ibb.co/yVqt74G/logoapp.png)
+
+    
+## Qué es Egreens 
+eGreens, es un sistema hidropónico para producir alimentos de rápido crecimiento mediante el uso de la tecnología y la automatización
+
+eGreens se forma de una aplicación móvil, un servidor en la nube, y un servidor local. La aplicación web permite utilizar cualquier dispositivo. La aplicación en IBM Cloud soporta toda la comunicación necesaria entre la aplicación web y el servidor local. Este último, se encarga de ser el puente entre los sensores y actuadores. Todo esto forma una red de IoT, los cimientos para entrar a la Industria 4.0, gemelos digitales (Digital Twin), y una preparación para entrar al mundo del big data e Inteligencia artificial.
+
+Existen pocas soluciones similares en el mercado latinoamericano y nosotros seremos la solución que te ayude a tomar mejores decisiones y a manejar de manera inteligente tus cultivos.
+
+### Documentación para ejecutar la app de React
 
 # Getting Started with Create React App
 

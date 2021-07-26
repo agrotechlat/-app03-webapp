@@ -3,8 +3,8 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Login from "./ibmlogin/Login";
 import useToken from "./hooks/useToken";
 import Home from "./pages/Home";
-import Pagina1 from "./pages/CultivosPage";
-import Pagina2 from "./pages/RiegosPage.js";
+import Cultures from "./pages/Cultures";
+import Irrigation from "./pages/Irrigation.js";
 import { Layout } from "./sections";
 import NewCulture from "./pages/NewCultivo";
 
@@ -18,12 +18,12 @@ function App() {
   return (
     <BrowserRouter>
       <Layout >
-        <Switch className="w-full bg-green-200">
-          <Route path="/pagina1">
-            <Pagina1 />
+        <Switch className="w-full bg-auto bg-green bg-green-200 flex">
+          <Route path="/farming">
+            <Cultures />
           </Route>
-          <Route path="/pagina2">
-            <Pagina2 />
+          <Route path="/irrigation">
+            <Irrigation />
           </Route>
           <Route path="/newCulture">
             <NewCulture />
