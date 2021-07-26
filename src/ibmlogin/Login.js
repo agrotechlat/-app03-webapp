@@ -76,7 +76,7 @@ function Login({ setToken }) {
                     /> */}
                   </div>
                 </div>
-                <div className="h-full flex focus:justify-center items-center text-center  m-0 p-16 bg-gray-200 rounded-b-lg">
+                <div className="h-full flex flex-col focus:justify-center items-center text-center  m-0 p-16 bg-gray-200 rounded-b-lg">
                   <button
                     className="w-full bg-green-500 hover:bg-green-400 text-white font-bold py-2 px-4 border-b-4 border-green-700 hover:border-green-500 rounded-lg"
                     id="login"
@@ -84,7 +84,11 @@ function Login({ setToken }) {
                   >
                     Sign in or create
                   </button>
+
+                 <p className="mt-10">User: testuser123</p>
+                <p>Pass: testuser123</p>
                 </div>
+                
               </div>
             </main>
           </>
