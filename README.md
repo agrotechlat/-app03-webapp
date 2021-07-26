@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://cloud.ibm.com">
+        <img src="https://i.postimg.cc/QML33b54/e-Greens-logo.png" height="100" alt="Logo">
+    </a>
+</p>
+
 Web app to control and config the hardware of hydroponic system.
 
 # Getting Started with Create React App
