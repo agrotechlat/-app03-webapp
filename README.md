@@ -12,8 +12,10 @@ eGreens, is a hydroponic system to produce fast growing food through the use of 
 01. [Description](#Description)
 02. [Demo Video](#Demo-Video)
 03. [Solution Architecture](#Solution-Architecture)
-04. [Getting Started](#Getting-Started)
-05. [Authors](#Authors)
+04. [Project Roadmap](#Project-Roadmap)
+05. [Getting Started](#Getting-Started)
+06. [Authors](#Authors)
+07. [License](License)
 
 ## Description <a name="Description"></a>
 
@@ -33,7 +35,15 @@ At eGreens we believe that ending hunger in Latin America and the world through 
 
 
 ## Solution Architecture <a name="Solution-Architecture"></a>
-![Solution Architecture](https://imgur.com/bm05pnF.png)
+![Solution Architecture 1](https://imgur.com/bm05pnF.png)
+
+![Solution Architecture 2](https://imgur.com/mcFHNY8.png)
+
+## Project Roadmap <a name="Project-Roadmap"></a>
+
+You can learn a little more about Greens and see the Roadmap from the following document
+
+[![Project Roadmap](https://imgur.com/NsSYMSh.png)](https://drive.google.com/file/d/1qD3RxIvPAh29LkDErEJ0FXtV82ebh9W0/view?usp=sharing "Project Roadmap")
 
 
 # Getting Started with Create React App <a name="Getting-Started"></a>
@@ -110,4 +120,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Authors <a name="Authors"></a>
 
 We are proud to be a diverse team, we are all from different countries: Argentina, Uruguay, Peru, Mexico and Venezuela!
+
 ![Authors](https://imgur.com/8p3DiO5.png)
