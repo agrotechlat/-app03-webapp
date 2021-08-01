@@ -2,17 +2,41 @@
 
 ![Logo](https://i.ibb.co/yVqt74G/logoapp.png)
 
-## Qué es Egreens
 
-eGreens, es un sistema hidropónico para producir alimentos de rápido crecimiento mediante el uso de la tecnología y la automatización
+## What is Egreens? ##
 
-eGreens se forma de una aplicación móvil, un servidor en la nube, y un servidor local. La aplicación web permite utilizar cualquier dispositivo. La aplicación en IBM Cloud soporta toda la comunicación necesaria entre la aplicación web y el servidor local. Este último, se encarga de ser el puente entre los sensores y actuadores. Todo esto forma una red de IoT, los cimientos para entrar a la Industria 4.0, gemelos digitales (Digital Twin), y una preparación para entrar al mundo del big data e Inteligencia artificial.
+eGreens, is a hydroponic system to produce fast growing food through the use of technology and automation. With eGreens people will be able to grow their own food, on their own land, regardless of the weather conditions, without the need for agrochemicals, and with the use of the latest cloud technology, recipes of cultivation and artificial intelligence to maximize their production.
 
-Existen pocas soluciones similares en el mercado latinoamericano y nosotros seremos la solución que te ayude a tomar mejores decisiones y a manejar de manera inteligente tus cultivos.
+## Contents 
 
-### Documentación para ejecutar la app de React
+01. [Description](#Description)
+02. [Demo Video](#Demo-Video)
+03. [Solution Architecture](#Solution-Architecture)
+04. [Getting Started](#Getting-Started)
+05. [Authors](#Authors)
 
-# Getting Started with Create React App
+## Description <a name="Description"></a>
+
+eGreens is made up of a mobile application, a cloud server, and a local server. The web application allows you to interact with eGreens using any device. The application in IBM Cloud supports all the necessary communication between the web app and the local server. The latter is responsible for being the bridge between the sensors and actuators. All this forms an IoT network, the foundations to enter Industry 4.0, digital twins, and a preparation to enter the world of big data and Artificial Intelligence.
+
+Our subscription model allows  to use it as part of a healthy life or start a business, we will establish alliances with companies and NGOs that join this fight against hunger. We will monetize the app through subscription and advertisements that offer various services related to cultivation.
+
+There are few similar solutions in the market and we will be the solution that helps you make better decisions and intelligently manage your crops.
+
+To make our solution a reality, we have already made the first prototype and will soon be launching it on the market.
+
+At eGreens we believe that ending hunger in Latin America and the world through smart technology is possible, so we invite you to join the project and collaborate to achieve the goal of zero hunger in the world.
+
+
+## Demo Video <a name="Demo-Video"></a>
+[![Demo Video](https://imgur.com/1arEPXm.png)](https://www.youtube.com/watch?v=l_jXrAoHCAs&ab_channel=eGreens "DEMO VIDEO")
+
+
+## Solution Architecture <a name="Solution-Architecture"></a>
+![Solution Architecture](https://imgur.com/bm05pnF.png)
+
+
+# Getting Started with Create React App <a name="Getting-Started"></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -82,3 +106,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Authors <a name="Authors"></a>
+
+We are proud to be a diverse team, we are all from different countries: Argentina, Uruguay, Peru, Mexico and Venezuela!
+![Authors](https://imgur.com/8p3DiO5.png)
