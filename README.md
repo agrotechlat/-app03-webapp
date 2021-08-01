@@ -14,8 +14,9 @@ eGreens, is a hydroponic system to produce fast growing food through the use of 
 03. [Solution Architecture](#Solution-Architecture)
 04. [Project Roadmap](#Project-Roadmap)
 05. [Getting Started](#Getting-Started)
-06. [Authors](#Authors)
-07. [License](License)
+06. [Live Demo](#Live-Demo)
+07. [Authors](#Authors)
+08. [License](License)
 
 ## Description <a name="Description"></a>
 
@@ -117,8 +118,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+## Live Demo <a name="Live-Demo"></a>
+
+You can find a running system to test at http://egreensapp.mybluemix.net/
+
 ## Authors <a name="Authors"></a>
 
 We are proud to be a diverse team, we are all from different countries: Argentina, Uruguay, Peru, Mexico and Venezuela!
 
 ![Authors](https://imgur.com/8p3DiO5.png)
+
+## License <a name="License"></a>
+
+This sample application is licensed under the Apache License, Version 2. Separate third-party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1](https://developercertificate.org/) and the [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
+
+[Apache License FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
